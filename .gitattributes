@@ -1,0 +1,2 @@
+SConstruct linguist-vendored
+src/*.scala linguist-language=Scala
